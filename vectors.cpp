@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void prinVector(vector<int> &v)
+void printVector(vector<int> &v)
 {
     cout << "size : " << v.size() << endl;
     for (int i = 0; i < v.size(); i++)
@@ -24,6 +24,6 @@ int main()
         prinVector(v);
         v.push_back(x);
     }
-    prinVector(v);
+    printVector(v);
     return 0;
 }
