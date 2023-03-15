@@ -21,7 +21,7 @@ int main()
     {
         int x;
         cin >> x;
-        prinVector(v);
+        printVector(v);
         v.push_back(x);
     }
     printVector(v);
