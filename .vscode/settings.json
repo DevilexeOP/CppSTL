@@ -6,7 +6,9 @@
     "vector": "cpp",
     "initializer_list": "cpp",
     "valarray": "cpp",
-    "xutility": "cpp"
+    "xutility": "cpp",
+    "random": "cpp",
+    "xtree": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
